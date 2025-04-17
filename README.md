@@ -26,7 +26,7 @@
 
 ## Docs is commented in the src files itself.
 
-## ![[assets/telegram24px.png]] Contact me : [@HighOnRetardium](t.me/HighOnRetardium)
+## ![[telegram24px.png]] Contact me : [@HighOnRetardium](t.me/HighOnRetardium)
 
 
 
