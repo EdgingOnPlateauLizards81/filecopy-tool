@@ -55,6 +55,13 @@ int main(int argc, char **argv) /* command line arguments */ {
             count++;
     }
 
+    /*
+    fclose() to close the files identified by 
+    readfile, writefile, flushing buffers occupied by the file contents
+    */
+    fclose(readfile);
+    fclose(writefile);
+
     printf("%s contents copied to %s.\n", argv[1], argv[2]);
     printf("%s has %lu characters.\n", argv[1], count);
 
